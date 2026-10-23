@@ -15,7 +15,7 @@
 
 - <b>Okta Labs</b>
 - [Import users from Entra to Okta](https://github.com/TravisTechMathis/Importing-User-s-from-Entra-ID-to-Our-Okta-Environment/blob/main/README.md)
-- [Enrollment Provisioning in Okta]()
+- [Enrollment Provisioning in Okta](https://github.com/TravisTechMathis/Enrollment-Provisioning-in-Okta/blob/main/README.md)
 - [Create Users Manually in Okta]()
 - [Adding attributes to Users in Our Okta Environment]()
 - [Creating Groups in Okta]()
