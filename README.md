@@ -8,4 +8,17 @@
 - [Identity Lifecycle](https://github.com/TravisTechMathis/Identity-Lifecycle-Management-in-Microsoft-Azure-s-Entra-ID/blob/main/README.md)
 - [Audit Logs](https://github.com/TravisTechMathis/Viewing-and-Interpreting-Audit-Logs-in-Microsoft-Azure-s-Entra-ID/blob/main/README.md)
 - [Sign-In Logs](https://github.com/TravisTechMathis/Signing-in/blob/main/README.md)
-- [Authentication]()
+- [Authentication](https://github.com/TravisTechMathis/Authentication-in-Microsoft-Azure-s-Entra-ID-)
+
+
+
+
+- <b>Okta Labs</b>
+- [Import users from Entra to Okta](https://github.com/TravisTechMathis/Importing-User-s-from-Entra-ID-to-Our-Okta-Environment/blob/main/README.md)
+- [Enrollment Provisioning in Okta]()
+- [Create Users Manually in Okta]()
+- [Adding attributes to Users in Our Okta Environment]()
+- [Creating Groups in Okta]()
+- [ABAC rules in Okta]()
+- [Device Management]()
+- [Audit Logs in Okta]()
