@@ -20,5 +20,5 @@
 - [Adding attributes to Users in Our Okta Environment](https://github.com/TravisTechMathis/Adding-Attributes-to-Users-in-Our-Okta-Environment/blob/main/README.md)
 - [Creating Groups in Okta](https://github.com/TravisTechMathis/Creating-Groups-in-Okta/blob/main/README.md)
 - [ABAC rules in Okta](https://github.com/TravisTechMathis/Attribute-Based-Access-Control-ABAC---Rules-in-Okta/blob/main/README.md)
-- [Device Management]()
+- [Device Management](https://github.com/TravisTechMathis/Device-Management-in-Okta/blob/main/README.md)
 - [Audit Logs in Okta]()
