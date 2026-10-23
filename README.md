@@ -1,5 +1,15 @@
 <h1>Hi, I'm Travis, an IT Professional </a>☺</h1>
 
+<b>Deployment, Networking, Troubleshooting</b>
+- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating and Managing Local Users]()
+- [Troubleshooting Network Connectivity]()
+- [Managing Windows Updates]()
+- [Software Installation]()
+- [Print Queue]()
+- [Credential Manager and Cache]()
+- [PowerShell]()
+
 - <b>Microsoft Azure Entra ID</b>
 - [Creating User's in Entra ID](https://github.com/TravisTechMathis/Creating-Users-in-Microsoft-Azure-s-Entra-ID/blob/main/README.md)
 - [Cloud Provisioning - P2 Licensing](https://github.com/TravisTechMathis/Cloud-Provisioning---P2-Licensing-in-Microsoft-Azure-s-Entra-ID)
