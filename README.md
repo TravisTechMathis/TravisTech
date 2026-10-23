@@ -4,7 +4,7 @@
 - [Creating User's in Entra ID](https://github.com/TravisTechMathis/Creating-Users-in-Microsoft-Azure-s-Entra-ID/blob/main/README.md)
 - [Cloud Provisioning - P2 Licensing](https://github.com/TravisTechMathis/Cloud-Provisioning---P2-Licensing-in-Microsoft-Azure-s-Entra-ID)
 - [Role Assignments](https://github.com/TravisTechMathis/Assigning-Roles-in-Microsoft-Azure-s-Entra-ID/blob/main/README.md)
-- [Group Assignments]()
+- [Group Assignments](https://github.com/TravisTechMathis/Assigning-Groups-to-Users-in-Microsoft-Azure-s-Entra-ID)
 - [Identity Lifecycle](https://github.com/TravisTechMathis/Identity-Lifecycle-Management-in-Microsoft-Azure-s-Entra-ID/blob/main/README.md)
 - [Audit Logs]()
 - [Sign-In Logs]()
