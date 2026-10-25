@@ -8,7 +8,7 @@
 - [Software Installation](https://github.com/TravisTechMathis/Software-Installation/blob/main/README.md)
 - [Print Queue](https://github.com/TravisTechMathis/Print-Queue-Management/blob/main/README.md)
 - [Credential Manager and Cache]()
-- [PowerShell]()
+- [PowerShell](https://github.com/TravisTechMathis/PowerShell-Overview)
 
 - <b>Microsoft Azure Entra ID</b>
 - [Creating User's in Entra ID](https://github.com/TravisTechMathis/Creating-Users-in-Microsoft-Azure-s-Entra-ID/blob/main/README.md)
