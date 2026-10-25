@@ -1,7 +1,7 @@
 <h1>Hi, I'm Travis, an IT Professional </a>☺</h1>
 
 <b>Deployment, Networking, Troubleshooting</b>
-- [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+- [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/TravisTechMathis/Creating-Resource-Group-Deploying-VM-and-RDP-to-VM-in-Our-Lab-Environment/blob/main/README.md)
 - [Creating and Managing Local Users]()
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
