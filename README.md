@@ -2,7 +2,7 @@
 
 <b>Deployment, Networking, Troubleshooting</b>
 - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/TravisTechMathis/Creating-Resource-Group-Deploying-VM-and-RDP-to-VM-in-Our-Lab-Environment/blob/main/README.md)
-- [Creating and Managing Local Users]()
+- [Creating and Managing Local Users](https://github.com/TravisTechMathis/Creating-and-Managing-Local-Users-in-Our-Lab-Environment/edit/main/README.md)
 - [Troubleshooting Network Connectivity]()
 - [Managing Windows Updates]()
 - [Software Installation]()
