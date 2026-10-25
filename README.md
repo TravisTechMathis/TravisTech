@@ -6,7 +6,7 @@
 - [Troubleshooting Network Connectivity](https://github.com/TravisTechMathis/Troubleshoot-Network-Connectivity/blob/main/README.md)
 - [Managing Windows Updates](https://github.com/TravisTechMathis/Managing-Windows-Updates/blob/main/README.md)
 - [Software Installation](https://github.com/TravisTechMathis/Software-Installation/blob/main/README.md)
-- [Print Queue]()
+- [Print Queue](https://github.com/TravisTechMathis/Print-Queue-Management/blob/main/README.md)
 - [Credential Manager and Cache]()
 - [PowerShell]()
 
