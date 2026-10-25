@@ -5,7 +5,7 @@
 - [Creating and Managing Local Users](https://github.com/TravisTechMathis/Creating-and-Managing-Local-Users-in-Our-Lab-Environment/edit/main/README.md)
 - [Troubleshooting Network Connectivity](https://github.com/TravisTechMathis/Troubleshoot-Network-Connectivity/blob/main/README.md)
 - [Managing Windows Updates](https://github.com/TravisTechMathis/Managing-Windows-Updates/blob/main/README.md)
-- [Software Installation]()
+- [Software Installation](https://github.com/TravisTechMathis/Software-Installation/blob/main/README.md)
 - [Print Queue]()
 - [Credential Manager and Cache]()
 - [PowerShell]()
